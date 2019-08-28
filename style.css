@@ -1,3 +1,8 @@
+nav {
+  width: 80%;
+  background-color: rgb(221, 135, 135);
+}
+
 ul {
   list-style: none;
   text-align: center;
@@ -17,8 +22,4 @@ li:not(:last-of-type) {
 a {
   text-decoration: none;
   color: pink;
-}
-
-a:hover {
-  color: grey;
 }
